@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int health = 0;
+	double health = 0;
 	int baseDmg;
 	int defenseIn = 100;
 	double defense;
