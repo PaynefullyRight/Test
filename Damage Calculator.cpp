@@ -58,6 +58,6 @@ int main()
 	}
 
 	if (health == 0) {
-		cout << "Enemy defeated!";
+		cout << "Enemy defeated!" << endl;
 	}
 }
