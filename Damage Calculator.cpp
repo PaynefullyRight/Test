@@ -60,4 +60,6 @@ int main()
 	if (health == 0) {
 		cout << "Enemy defeated!" << endl;
 	}
+
+	return 0;
 }
